@@ -1,0 +1,15 @@
+name: "my-website"
+navbar:
+  title: "Toshiya Yoshida"
+  left:
+    - text: "about"
+      href: index.html
+    - text: "reseach"
+      href: research.html
+    - text: "misc"
+      href: misc.html
+
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
