@@ -12,4 +12,5 @@ I am a Ph.D. student at the in the Department of Statistics at University of Cal
 I am interested in Bayesian statistics and its application to data on sociology, economics, and public health.
 Currently, I am working on verbal autopsy dataset and develop statistical tools for a dynamic survey design. 
 
+Email: toyoshid at ucsc.edu
 [Curriculum Vitae](https://yoshida-t.github.io/upload/cv.pdf)
