@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 I am a Ph.D. student in the [Department of Statistics](https://engineering.ucsc.edu/departments/statistics/) at [the University of California, Santa Cruz](https://www.ucsc.edu), advised by Prof. [Zehang Richard Li](https://zehangli.com/index.html).
 I am interested in Bayesian statistics and its application to sociology, economics, and public health.
-Currently, I am working on a verbal autopsy dataset and developing statistical tools for a dynamic survey design. 
+Currently, I am working on verbal autopsy and developing statistical tools for a dynamic survey design. 
 
 Email: toyoshid (at) ucsc.edu  
 [Curriculum Vitae](https://yoshida-t.github.io/upload/cv.pdf)
