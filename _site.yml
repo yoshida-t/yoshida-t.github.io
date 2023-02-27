@@ -1,6 +1,4 @@
 name: "my-website"
-title: My Website
-description: myCustomAndDetailedDescription
 output_dir: "."
 navbar:
   title: "Toshiya Yoshida"

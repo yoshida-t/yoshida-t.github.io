@@ -5,8 +5,9 @@ title: "Toshiya Yoshida"
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<br>
 
-# About me
+## About me
 
 I am a Ph.D. student in the [Department of Statistics](https://engineering.ucsc.edu/departments/statistics/) at [the University of California, Santa Cruz](https://www.ucsc.edu), advised by Prof. [Zehang Richard Li](https://zehangli.com/index.html).
 I am interested in Bayesian statistics and its application to sociology, economics, and public health.

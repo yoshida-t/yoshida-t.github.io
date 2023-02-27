@@ -1,13 +1,12 @@
 ---
-title: "&nbsp;"
+title: "Teaching"
 ---
-
-# Teaching assistants
-
 <br>
 
-### STAT 5 (Introductory statistics)
+## Teaching assistants
+
+* STAT 5 (Introductory statistics) <br>
   　Winter 2022, Spring 2022
 
-### STAT 7 (Introductory biostatistics)
+* STAT 7 (Introductory biostatistics) <br>
   　Fall 2021

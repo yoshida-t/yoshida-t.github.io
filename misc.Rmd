@@ -1,5 +1,5 @@
 ---
-title: "&nbsp;"
+title: "Miscellaneous"
 ---
-
-# More about me
+<br>
+## More about me
