@@ -1,5 +1,5 @@
 ---
-title: "Miscellaneous"
+title: "Toshiya Yoshida"
 ---
 <style type="text/css">
 h1.title {
