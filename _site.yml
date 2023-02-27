@@ -7,6 +7,8 @@ navbar:
       href: index.html
     - text: "reseach"
       href: research.html
+    - text: "teaching"
+      href: teaching.html
     - text: "misc"
       href: misc.html
 
