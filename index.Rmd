@@ -1,3 +1,9 @@
+<!-- 
+git add -A
+git commit -m "recommit" -v
+git push
+-->
+
 ---
 title: "Toshiya Yoshida"
 --- 
@@ -15,3 +21,4 @@ Currently, I am working on verbal autopsy and developing statistical tools for a
 
 Email: toyoshid (at) ucsc.edu  
 [Curriculum Vitae](https://yoshida-t.github.io/upload/cv.pdf)
+
