@@ -1,6 +1,11 @@
 ---
 title: "Miscellaneous"
 ---
-<br>
+<style type="text/css">
+h1.title {
+  font-size: 0px;
+  color: DarkRed;
+}
+</style>
 
 ## More about me

@@ -2,7 +2,12 @@
 title: "Research"
 ---
 
-<br>
+<style type="text/css">
+h1.title {
+  font-size: 0px;
+  color: DarkRed;
+}
+</style>
 
 ## Preprints
 
