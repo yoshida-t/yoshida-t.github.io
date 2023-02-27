@@ -1,5 +1,4 @@
 name: "my-website"
-title: "Toshiya Yoshida"
 output_dir: "."
 navbar:
   title: "Toshiya Yoshida"

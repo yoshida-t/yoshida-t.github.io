@@ -4,14 +4,16 @@ git commit -m "recommit" -v
 git push
 -->
 
----
-title: "Toshiya Yoshida"
---- 
+<!-- --- -->
+<!-- title: "Toshiya Yoshida" -->
+<!-- ---  -->
+<h1>Toshiya Yoshida</h1>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 <br>
+
 
 ## About me
 
