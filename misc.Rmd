@@ -12,7 +12,7 @@ h1.title {
 Before joining UCSC, I majored in economics, mainly studying Bayesian econometrics and finance.
 I am one of the [2023 Quad fellows](https://www.quadfellowship.org/quad-fellows).
 
-My non-academic activities include playing pool, DIY keyboard, cooking and listening to rock music.
+My non-academic activities include playing pool, DIY keyboard, cooking, and listening to rock music.
 
 <img src="upload/pool03.jpg" width="600" /><br>
 <img src="upload/keyboard01.jpg" width="300"><img src="upload/keyboard02.jpg" width="300"><br>
