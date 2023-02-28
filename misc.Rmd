@@ -10,6 +10,9 @@ h1.title {
 
 # More about me
 
-My non-academic activities include playing pool, DIY keyboard, and listening rock musics.
+My non-academic activities include playing pool, DIY keyboard, and listening to rock musics.
 
-<img src="upload/pool03.jpg" width="600" > <img src="upload/keyboard01.jpg" width="600" >
+<img src="upload/pool03.jpg" width="600" /><br>
+<img src="upload/keyboard01.jpg" width="300"><img src="upload/keyboard02.jpg" width="300"><br>
+<img src="upload/keyboard03.jpg" width="300"><img src="upload/bike.jpg" width="300"><br>
+<img src="upload/dog04.jpg" width="600">
