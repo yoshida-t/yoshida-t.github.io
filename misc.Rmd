@@ -12,4 +12,4 @@ h1.title {
 
 My non-academic activities include playing pool, DIY keyboard, and listening rock musics.
 
-<img src="upload/pool03.jpg" width="600" /> <img src="upload/keyboard01.jpg" width="600" />
+<img src="upload/pool03.jpg" width="600" > <img src="upload/keyboard01.jpg" width="600" >
