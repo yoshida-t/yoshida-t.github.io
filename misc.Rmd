@@ -9,6 +9,8 @@ h1.title {
 </style>
 
 # More about me
+Before joining UCSC, I majored in economics, doing Bayesian econometrics and finance.
+I am one of the [2023 Quad fellows](https://www.quadfellowship.org/quad-fellows).
 
 My non-academic activities include playing pool, DIY keyboard, and listening to rock musics.
 
