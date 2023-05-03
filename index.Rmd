@@ -3,6 +3,9 @@ git add -A
 git commit -m "recommit" -v
 git push
 -->
+<!-- 
+knit ⇧⌘K
+-->
 
 ---
 title: "Toshiya Yoshida - University of California, Santa Cruz"

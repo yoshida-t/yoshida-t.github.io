@@ -15,4 +15,5 @@ h1.title {
 
 # Publications
 
-1. T. Yoshida, T.S. Fan, T. McCormick, Z. Wu & Z.R. Li. (2023) Bayesian active questionnaire design for cause-of-death assignment using verbal autopsies. *The AHLI Conference on Health, Inference, and Learning (CHIL)* (accepted) [[arXiv](https://arxiv.org/abs/2302.08099)]
+1. T. Yoshida, T.S. Fan, T. McCormick, Z. Wu & Z.R. Li. (2023) Bayesian active questionnaire design for cause-of-death assignment using verbal autopsies. *The AHLI Conference on Health, Inference, and Learning (CHIL)*.  [[arXiv](https://arxiv.org/abs/2302.08099), [codes](https://github.com/yoshida-t/Bayesian-active-questionnaire-for-VA)] <br> 
+  -***Selected as oral presentation (top 13%)***
